@@ -7,7 +7,7 @@ The following project helps NASA by promoting astronomy education and making spa
 # Technologies used
 1. React Native
 2. JavaScript
-3. JSON data
+3. JSON data of the stars (includes name, mass, radius, etc.)
 
 # How to run the project? 
 1. Ensure that node.js, visual studio code is installed.
@@ -16,3 +16,5 @@ The following project helps NASA by promoting astronomy education and making spa
 4. Install dependencies "npm install" and "npm install -g expo-cli" in the terminal.
 5. Start the development server "npx expo start"
 6. Scan the QR code on your phoen to access the development server on your app.
+
+
